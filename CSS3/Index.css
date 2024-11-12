@@ -1,0 +1,297 @@
+body{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background: #85c1e9;
+    width: 100%;
+    height: 100px;
+}
+.encabezado-1{
+    border: 5px solid #6391f4;
+    background: white;
+    width: 1200px;
+    height: 150px;
+}
+h1{
+    color: #c39bd3  ;
+    font-size: 50px;
+}
+h2{
+    color: #ecf0f1  ;
+    font-size: 50px;
+}
+.flix-1{
+    margin-top: -17px;
+}
+.ul-a{
+    color: #6c63f4 ;
+    text-decoration: none;
+}
+.ul-a:hover{
+    text-decoration: underline;
+    color: #7d3c98;
+}
+.enlaces{
+    width: 1330px;
+    height: 1140px;
+    margin-top: 100px;
+}
+.contenedorez{
+    margin-top: 20px;
+    width: 580px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    left: 8%;
+    float: left ; 
+}
+.deportes img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.a{
+    text-align: center;
+    width: 170px;
+    height: 44px;
+    position: absolute;
+    top: 40%;
+    left: 0%; 
+    background: #85c1e9;
+    font-size: 40px; 
+    text-decoration: none ;
+    transition: 0.5s linear;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}
+
+.b{
+    font-size: 25px;
+    position: absolute;
+    top: 60%;
+    right: 1%; 
+    text-align: right;
+    text-decoration: none;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}
+.b:hover{
+    text-decoration: underline;
+}
+.c{
+    content: center;
+    font-size: 20px;
+    position: absolute;
+    top: 87%;
+    left: 1%; 
+    text-align: left;
+    text-decoration: none;
+    color: #ecf0f1;
+    font-family: Helvetica;
+
+}
+.c:hover{
+    text-decoration: underline;
+}
+
+.contenedores{
+    float: right;
+    width: 530px;
+    height: 700px;
+    position: relative;
+    overflow: hidden;
+    right: 8%;
+}
+.cultura img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.a1{
+    text-align: center;
+    width: 150px;
+    height: 32px;
+    position: absolute;
+    top: 45%;
+    right: 0%; 
+    background:  #6391f4;
+    font-size: 28px; 
+    text-decoration: none ;
+    transition: 0.5s linear;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}
+.b1{
+    font-size: 28px;
+    position: absolute;
+    top: 60%;
+    left: 1%; 
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    font-family: Helvetica;
+}
+.b1:hover{
+    text-decoration: underline;
+}
+.c1{
+    font-size: 20px;
+    position: absolute;
+    top: 85%;
+    right: 1%; 
+    text-align: right;
+    text-decoration: none;
+    color:white;
+    font-family: Helvetica;
+}
+.c1:hover{
+    text-decoration: underline;
+}
+
+.contenedor{
+    margin-top: 50px;
+    width: 580px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    left: 8%;
+    float: left ; 
+}
+.politica img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.a2{
+    text-align: center;
+    width: 170px;
+    height: 44px;
+    position: absolute;
+    top: 40%;
+    left: 0%; 
+    background: #6391f4;
+    font-size: 40px; 
+    text-decoration: none ;
+    transition: 0.5s linear;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}
+
+.b2{
+    font-size: 35px;
+    position: absolute;
+    top: 60%;
+    right: 1%; 
+    text-align: right;
+    text-decoration: none;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}
+.b2:hover{
+    text-decoration: underline;
+}
+.c2{
+    content: center;
+    font-size: 20px;
+    position: absolute;
+    top: 87%;
+    left: 1%; 
+    text-align: left;
+    text-decoration: none;
+    color: #ecf0f1;
+    font-family: Helvetica;
+
+}
+.c2:hover{
+    text-decoration: underline;
+}
+.contenedore{
+    width: 1115px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    top: 20px;
+}
+.aco img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.a3{
+    width: 230px;
+    height: 35px;
+    position: absolute;
+    top: 55%;
+    left: 0%; 
+    background: #6391f4;
+    font-size: 30px; 
+    text-decoration: none ;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}  
+.b3{
+    font-size: 40px;
+    position: absolute;
+    top: 65%;
+    left: 1%; 
+    text-align: left;
+    text-decoration: none;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}
+.b3:hover{
+    text-decoration: underline;
+}
+.c3{
+    font-size: 20px;
+    position: absolute;
+    top: 88%;
+    left: 1%; 
+    text-align: left;
+    text-decoration: none;
+    color: #d6dbdf;
+    font-family: Helvetica;
+}
+.c3:hover{
+    text-decoration: underline;
+}
+.d3{
+    font-size: 20px;
+    position: absolute;
+    top: 88%;
+    left: 1%; 
+    text-align: left;
+    text-decoration: none;
+    transition: 0.5s ;
+    color: #ecf0f1;
+    font-family: Helvetica;
+}
+footer{
+    min-height: 30vh;
+    margin-top: 5px;
+    display: table;
+    width: 100%;
+    background-color:#85c1e9 ;
+    color:#ecf0f1;
+    text-align: center;
+}
+.año{
+    font-size: 20px;
+    color:#212f3d;
+}
+.raya{
+    margin-top: 70px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    margin-top: 40px;
+    transition: 0.5s; 
+    color:#212f3d;
+    transition: 0,5s ;
+}
+.logo:hover{
+    transform: scale(1.1);
+}
